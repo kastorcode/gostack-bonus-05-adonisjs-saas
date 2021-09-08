@@ -102,8 +102,8 @@
 
 ### 🗝️ Default user
 
-Name: `Matheus`;
-Email: `email@email.com`;
+Name: `Matheus`;  
+Email: `email@email.com`;  
 Password: `123456`.
 
 ---
